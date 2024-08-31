@@ -1,0 +1,10 @@
+name = str(input("enter your name :"))
+age = int(input("enter your age :"))
+marks = float(input("enter your marks :"))
+fuck = str(input("which animal do you like to fuck :"))
+
+print("hi,",name)
+print("so your age is,",age)
+print("and you got,",marks)
+print("and you like to fuck,",fuck,"also")
+print("wellcome to the fuck pythons club")
